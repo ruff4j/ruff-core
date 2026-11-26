@@ -1,10 +1,10 @@
-package com.ruff.ruff;
+package com.ruff4j.core;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RuffApplicationTests {
+class CoreApplicationTests {
 
 	@Test
 	void contextLoads() {

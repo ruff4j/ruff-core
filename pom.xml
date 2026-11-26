@@ -8,10 +8,10 @@
 		<version>4.1.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ruff</groupId>
-	<artifactId>ruff</artifactId>
+	<groupId>com.ruff4j</groupId>
+	<artifactId>core</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ruff</name>
+	<name>ruff4j</name>
 	<description>A universal web project for downloading and converting media from anywhere</description>
 	<url/>
 	<licenses>
